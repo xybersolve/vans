@@ -1,0 +1,25 @@
+.task {
+  background: #f4f4f4;
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.task.complete {
+  border-left: 8px solid green;
+}
+.task.assigned {
+  border-left: 8px solid yellow; 
+}
+
+.unassigned {
+  border-left: 8px solid red; 
+}
+
+
+
+.task h3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
