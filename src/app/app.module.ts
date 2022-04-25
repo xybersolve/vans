@@ -17,6 +17,8 @@ import { TaskItemComponent } from './components/task-item/task-item.component';
 import { AddTaskComponent } from './components/add-task/add-task.component';
 import { AboutComponent } from './components/about/about.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { HighlightDirective } from './directives/hilight.directive';
+import { HighlighterDirective } from './directives/highlighter.directive';
 
 
 const appRoutes: Routes = [
@@ -34,7 +36,9 @@ const appRoutes: Routes = [
     TaskItemComponent,
     AddTaskComponent,
     AboutComponent,
-    FooterComponent
+    FooterComponent,
+    HighlightDirective,
+    HighlighterDirective
   ],
   imports: [
     BrowserModule,

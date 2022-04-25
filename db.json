@@ -33,19 +33,19 @@
     {
       "id": 6,
       "text": "Walls",
-      "state": 1,
+      "state": 2,
       "reminder": true
     },
     {
       "id": 7,
       "text": "Cieling",
-      "state": 1,
+      "state": 2,
       "reminder": true
     },
     {
       "id": 8,
       "text": "Cabinets",
-      "state": 1,
+      "state": 2,
       "reminder": true
     }
   ]

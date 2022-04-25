@@ -2,8 +2,6 @@ import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from "@angular/common/http";
 import { Observable } from 'rxjs';
 import { Task } from '../Task';
-import { TASKS } from '../mock-tasks';
-// import { TmplAstRecursiveVisitor } from '@angular/compiler';
 
 const httpOptions = {
   headers: new HttpHeaders({
