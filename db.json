@@ -15,7 +15,7 @@
     {
       "id": 3,
       "text": "Furring",
-      "state": 3,
+      "state": 2,
       "reminder": true
     },
     {
@@ -27,25 +27,25 @@
     {
       "id": 5,
       "text": "Roof Openings",
-      "state": 2,
+      "state": 1,
       "reminder": true
     },
     {
       "id": 6,
       "text": "Walls",
-      "state": 2,
+      "state": 1,
       "reminder": true
     },
     {
       "id": 7,
       "text": "Cieling",
-      "state": 2,
+      "state": 1,
       "reminder": true
     },
     {
       "id": 8,
       "text": "Cabinets",
-      "state": 2,
+      "state": 1,
       "reminder": true
     }
   ]
