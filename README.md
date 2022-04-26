@@ -24,3 +24,6 @@ $ serve -s dist/vans -p 8000
 ##### Should Open Browser at App Address (either way) 
 - (OSX) In seperate terminal: $ open http://localhost:8000 
 - Open browser & go to: http://localhost:8000
+
+[Van](xybersolve.github.com/vans/images/Flowing-Van.jpg)
+
