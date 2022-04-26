@@ -25,5 +25,5 @@ $ serve -s dist/vans -p 8000
 - (OSX) In seperate terminal: $ open http://localhost:8000 
 - Open browser & go to: http://localhost:8000
 
-[Van](xybersolve.github.com/vans/images/Flowing-Van.jpg)
+[Van](xybersolve.github.com/vans-angular/images/Flowing-Van.jpg)
 
