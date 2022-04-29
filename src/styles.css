@@ -76,3 +76,11 @@ body {
   flex: 2;
   height: 20px;
 }
+
+.taskInfo {
+  text-align: center;
+  font-size: .85em; 
+  color: blue;
+  margin-bottom: 15px; 
+  margin-top: 0;
+}
